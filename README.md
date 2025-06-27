@@ -1,7 +1,7 @@
 # BIM-based Smart Safety Monitoring System
 
 This repository contains the full code and documentation for a **BIM-based smart safety monitoring system** developed to enhance worker safety at construction sites. The system integrates a **mobile app** that tracks worker locations using GPS and a **web app** that visualizes safety data and issues alerts through a PHP-based API. The solution aims to mitigate accidents by identifying hazardous zones and notifying workers in real time.
-
+## DOI for the original research paper: 10.1108/CI-11-2022-0296.
 ## Overview
 
 The **BIM-based Smart Safety Monitoring System** provides a cloud-based, automated solution for safety tracking on construction sites. The system:
